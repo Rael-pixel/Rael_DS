@@ -1,1 +1,13 @@
 python basics folder
+# Python Basics
+
+This folder contains my Python fundamentals practice as I learn data analysis.
+
+## Topics covered
+- Variables and data types
+- Basic operations
+- Lists
+- Intro to pandas
+
+## Notes
+These are practice notebooks created while learning on Kaggle.
